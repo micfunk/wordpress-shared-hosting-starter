@@ -1,0 +1,1 @@
+A wordpress starter kit for shared hosting enviroments using composer.
